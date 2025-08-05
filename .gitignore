@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+
+# OS-specific junk
+.DS_Store
+._*
+Thumbs.db
+
+# Logs & temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE folders
+.vscode/
+.idea/
+*.iml
+
+# Build / distribution folders
+build/
+dist/
+*.egg-info
+
+# Model or large data files (optional for IoT)
+*.h5
+*.pkl
+*.so
+*.zip
+*.tar
+*.gz
