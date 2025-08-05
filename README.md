@@ -82,7 +82,7 @@ python autodoorlocking.py
 ## 👤 About Me
 
 **Anup Chapagain**  
-AI & IoT Enthusiast | Erasmus Mundus Aspirant  
+AI & IoT Enthusiast | Film Making Aspirant | Camera Nerd 
 
 [![GitHub](https://img.shields.io/badge/GitHub-anupanonymous-black?style=for-the-badge&logo=github)](https://github.com/anupanonymous)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anup%20Chapagain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
